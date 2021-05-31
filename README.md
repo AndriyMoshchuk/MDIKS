@@ -1,2 +1,2 @@
 Додаток MovieViewer
-![ScreenShots](1.jpg)
+![](ScreenShots/1.jpg)
