@@ -1,5 +1,5 @@
 Додаток MovieViewer <br />
 
 <p align="left">
-  <img src="Screenshots/1.jpg">
+  <img width="285" src="Screenshots/1.jpg">
 </p>
